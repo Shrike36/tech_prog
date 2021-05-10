@@ -1,5 +1,9 @@
 # WeatherHub
 
+<p align="center">
+  <img src="Resources/logo.png">
+</p>
+
 ## Ссылки:
 
 - [Trello](https://trello.com/b/7zO88m6D)
