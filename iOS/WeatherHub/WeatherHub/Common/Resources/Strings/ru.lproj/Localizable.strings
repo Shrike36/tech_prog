@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  WeatherHub
+
+  Created by Дмитрий Демьянов on 06.05.2021.
+  
+*/
+
+// MARK: - Tabs
+
+"Tabs.location" = "Места";
+"Tabs.weather" = "Погода";
+"Tabs.more" = "Ещё";
