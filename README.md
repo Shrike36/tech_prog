@@ -1,4 +1,6 @@
-# WeatherHub
+<p align="center">
+  <img src="Resources/logo.png">
+</p>
 
 ## Ссылки:
 
@@ -6,4 +8,4 @@
 
 - [Miro](https://miro.com/app/board/o9J_lNhQiZo=/)
 
-- [Актуальное ТЗ](./Docs/ТехническоеЗадание (updated).pdf)
+- [Актуальное ТЗ](Docs/ТехническоеЗадание (updated).pdf)
