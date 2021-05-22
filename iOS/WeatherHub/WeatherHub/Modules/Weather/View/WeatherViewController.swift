@@ -27,3 +27,10 @@ extension WeatherViewController: WeatherViewInput {
     }
 
 }
+
+private extension WeatherViewController {
+
+    func configureAppearance() {
+    }
+
+}

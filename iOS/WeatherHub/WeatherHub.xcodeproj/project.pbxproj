@@ -179,11 +179,11 @@
 		0A5137AF26472AF70026640F /* Modules */ = {
 			isa = PBXGroup;
 			children = (
-				0A7CEA4726498641008E2D2E /* Places */,
-				0A7CEA6126498641008E2D2E /* Settings */,
-				0A7CEA5426498641008E2D2E /* Weather */,
 				0A5137B026472B180026640F /* Coordinator.swift */,
 				0A51387526474A850026640F /* TabBar */,
+				0A7CEA4726498641008E2D2E /* Places */,
+				0A7CEA5426498641008E2D2E /* Weather */,
+				0A7CEA6126498641008E2D2E /* Settings */,
 			);
 			path = Modules;
 			sourceTree = "<group>";
@@ -301,10 +301,10 @@
 		0A69888526434DC000F97207 /* WeatherHub */ = {
 			isa = PBXGroup;
 			children = (
-				0A5138942647F83F0026640F /* Library */,
 				0A5138902647F7AA0026640F /* Application */,
-				0A5137AF26472AF70026640F /* Modules */,
 				0A6988D22643574B00F97207 /* Common */,
+				0A5138942647F83F0026640F /* Library */,
+				0A5137AF26472AF70026640F /* Modules */,
 			);
 			path = WeatherHub;
 			sourceTree = "<group>";
@@ -870,6 +870,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -932,6 +933,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
