@@ -22,12 +22,25 @@ internal typealias AssetImageTypeAlias = ImageAsset.Image
 // swiftlint:disable identifier_name line_length nesting type_body_length type_name
 internal enum Asset {
   internal enum Assets {
+    internal static let heartFill = ImageAsset(name: "heart_fill")
+    internal static let `left` = ImageAsset(name: "left")
+    internal static let logoH = ImageAsset(name: "logo_h")
     internal static let pin = ImageAsset(name: "pin")
+    internal static let `right` = ImageAsset(name: "right")
+    internal static let cloud = ImageAsset(name: "cloud")
+    internal static let rain = ImageAsset(name: "rain")
+    internal static let snow = ImageAsset(name: "snow")
+    internal static let storm = ImageAsset(name: "storm")
+    internal static let sun = ImageAsset(name: "sun")
+    internal static let sunAndClouds = ImageAsset(name: "sun_and_clouds")
   }
   internal enum Colors {
     internal static let action = ColorAsset(name: "action")
     internal static let background = ColorAsset(name: "background")
     internal static let border = ColorAsset(name: "border")
+    internal static let contrastAction = ColorAsset(name: "contrastAction")
+    internal static let contrastBackground = ColorAsset(name: "contrastBackground")
+    internal static let shade = ColorAsset(name: "shade")
     internal static let tint = ColorAsset(name: "tint")
   }
 }
