@@ -24,15 +24,22 @@ final class Coordinator {
         }
 
         router.setRootModule(components.view)
+        showWeather()
     }
 
     func showPlaces() {
+        let components = PlacesModuleConfigurator().configure()
+        router.setNavigationControllerRootModule(components.view, animated: false, hideBar: false)
     }
 
     func showWeather() {
+        let components = WeatherModuleConfigurator().configure()
+        router.setNavigationControllerRootModule(components.view, animated: false, hideBar: false)
     }
 
     func showSettings() {
+        let components = SettingsModuleConfigurator().configure()
+        router.setNavigationControllerRootModule(components.view, animated: false, hideBar: false)
     }
 
 }

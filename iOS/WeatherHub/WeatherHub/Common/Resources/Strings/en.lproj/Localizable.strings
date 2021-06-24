@@ -11,3 +11,8 @@
 "Tabs.location" = "Places";
 "Tabs.weather" = "Weather";
 "Tabs.more" = "More";
+
+// MARK: - Weather tab
+
+"Date.today" = "Today, ";
+"Date.tomorrow" = "Tomorrow, ";

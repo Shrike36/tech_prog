@@ -11,6 +11,13 @@ import Foundation
 // swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces
 internal enum L10n {
 
+  internal enum Date {
+    /// Today, 
+    internal static let today = L10n.tr("Localizable", "Date.today")
+    /// Tomorrow, 
+    internal static let tomorrow = L10n.tr("Localizable", "Date.tomorrow")
+  }
+
   internal enum Tabs {
     /// Places
     internal static let location = L10n.tr("Localizable", "Tabs.location")

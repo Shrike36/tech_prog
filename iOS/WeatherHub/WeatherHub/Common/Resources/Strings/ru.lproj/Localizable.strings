@@ -11,3 +11,8 @@
 "Tabs.location" = "Места";
 "Tabs.weather" = "Погода";
 "Tabs.more" = "Ещё";
+
+// MARK: - Weather tab
+
+"Date.today" = "Сегодня, ";
+"Date.tomorrow" = "Завтра, ";
