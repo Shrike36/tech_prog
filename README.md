@@ -8,7 +8,7 @@
 - [Актуальное ТЗ](Docs/spec.pdf)
 - [Курсовая работа](Docs/kurs.pdf)
 - [Презентация](Docs/presentation.pdf)
-- [Видео с демонстрацией](Demo/Demo.mp4)
+- [Видео с демонстрацией](https://drive.google.com/file/d/1Q6njsNXA8bVRsIR7dkyvIfzwWrElCsR0/view?usp=sharing)
 - [Инструкция пользователя](Docs/instruction.pdf)
 - [Репозиторий с Backend](https://github.com/Shrike36/WeatherHubBack)
 - [Репозиторий с iOS-приложением](https://github.com/Shrike36/WeatherHubFront)
