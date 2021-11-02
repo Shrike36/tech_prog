@@ -6,7 +6,7 @@
 
 - [Miro](https://miro.com/app/board/o9J_lNhQiZo=/)
 - [Актуальное ТЗ](Docs/spec.pdf)
-- [Курсовая работа](Docs/kurs.pdf)
+- [Курсовой проект](Docs/КурсовойПроект.pdf)
 - [Презентация](Docs/presentation.pdf)
 - [Видео с демонстрацией](https://drive.google.com/file/d/1Q6njsNXA8bVRsIR7dkyvIfzwWrElCsR0/view?usp=sharing)
 - [Инструкция пользователя](Docs/instruction.pdf)
